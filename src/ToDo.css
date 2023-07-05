@@ -1,0 +1,9 @@
+.cont{
+    display: flex;
+    flex-direction: row;
+}
+
+.icon:hover{
+    color: red;
+
+}
